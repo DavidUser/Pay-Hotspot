@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/menu/main.xml"
+    }
+]
