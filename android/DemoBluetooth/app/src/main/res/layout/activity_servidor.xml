@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/pedidos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        app:srcCompat="@drawable/pedidos"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="24dp"
+        android:layout_marginStart="24dp" />
+
+    <TextView
+        android:id="@+id/textPedidos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginStart="33dp"
+        android:text="Pedidos"
+        android:textColor="@android:color/background_dark"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/pizza"
+        android:layout_toRightOf="@+id/pedidos"
+        android:layout_toEndOf="@+id/pedidos"
+        android:layout_marginBottom="42dp" />
+
+    <ImageView
+        android:id="@+id/pizza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/pedidos"
+        android:layout_alignStart="@+id/pedidos"
+        android:layout_below="@+id/pedidos"
+        android:layout_marginTop="31dp"
+        app:srcCompat="@drawable/pizza" />
+
+    <ImageView
+        android:id="@+id/mik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/milkshake"
+        android:layout_alignBottom="@+id/pizza"
+        android:layout_toRightOf="@+id/pedidos"
+        android:layout_toEndOf="@+id/pedidos" />
+
+    <ImageView
+        android:id="@+id/batata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/mik"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        app:srcCompat="@drawable/frenchfries" />
+
+    <ImageView
+        android:id="@+id/hot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/pedidos"
+        android:layout_alignStart="@+id/pedidos"
+        android:layout_below="@+id/pizza"
+        android:layout_marginTop="42dp"
+        app:srcCompat="@drawable/hotdog" />
+
+    <ImageView
+        android:id="@+id/cake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/cake"
+        android:layout_alignBottom="@+id/hot"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:id="@+id/ham"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        app:srcCompat="@drawable/hamburger"
+        android:layout_below="@+id/mik"
+        android:layout_alignLeft="@+id/mik"
+        android:layout_alignStart="@+id/mik" />
+
+    <ImageView
+        android:id="@+id/btnPagar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ham"
+        android:layout_toLeftOf="@+id/ham"
+        android:layout_toStartOf="@+id/ham"
+        app:srcCompat="@drawable/ok" />
+
+    <ImageView
+        android:id="@+id/x"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textPedidos"
+        android:layout_alignRight="@+id/textPedidos"
+        android:layout_below="@+id/ham"
+        app:srcCompat="@drawable/x" />
+
+</RelativeLayout>

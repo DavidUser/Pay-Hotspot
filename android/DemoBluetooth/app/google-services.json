@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "519506489883",
+    "firebase_url": "https://bluetoothserver-489dd.firebaseio.com",
+    "project_id": "bluetoothserver-489dd",
+    "storage_bucket": "bluetoothserver-489dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519506489883:android:41a9daf92e13bb3f",
+        "android_client_info": {
+          "package_name": "com.android.tools.build"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519506489883-5a2ggk1lj4b3j6iq9213g4k6ueql0tul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6zUvSQCjBAD2odFwmygTalp2Nwn9dcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
