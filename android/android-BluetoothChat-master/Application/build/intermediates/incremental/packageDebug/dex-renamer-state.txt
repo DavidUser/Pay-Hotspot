@@ -1,7 +1,7 @@
-#Sun Jul 23 05:18:02 BRT 2017
-base.0=/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e66c4aa52477c1ab4df9c868b454f4727126f5a
+#Tue Aug 01 16:08:25 BRT 2017
+base.0=C\:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f9a63bf542528a433579e1005a76a8f22b27c61
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_362e264f3177779e575ae122c66b03216c14e60e/classes.dex
-base.1=/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_362e264f3177779e575ae122c66b03216c14e60e
-file.0=/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e66c4aa52477c1ab4df9c868b454f4727126f5a/classes.dex
+file.1=C\:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cf7fb74ecf7d6dbe71d0813507589494340fd6df\\classes.dex
+base.1=C\:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cf7fb74ecf7d6dbe71d0813507589494340fd6df
+file.0=C\:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8f9a63bf542528a433579e1005a76a8f22b27c61\\classes.dex

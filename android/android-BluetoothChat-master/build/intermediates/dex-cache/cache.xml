@@ -3,129 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/david/.android/build-cache/67fa5ea4ee59b4df9993d28151cfaafbbe32dffd/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e5630fe4eb3eaea71550b66ac03abaacdc8a103/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\Matheus Zeitune\Documents\GitHub\Pay-Hotspot\android\android-BluetoothChat-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3e66c4aa52477c1ab4df9c868b454f4727126f5a/classes.dex" />
+        <dex dex="C:\Users\Matheus Zeitune\Documents\GitHub\Pay-Hotspot\android\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf7fb74ecf7d6dbe71d0813507589494340fd6df\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/david/.android/build-cache/9d13518987e766d5edfff79930aca6148c7c262d/output/jars/classes.jar"
+        jar="C:\Users\Matheus Zeitune\Documents\GitHub\Pay-Hotspot\android\android-BluetoothChat-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa59bffd1ec1f8211520a2d65eb7723106f59be8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/396886081d351b31851c94919c56ee8aeda1c620/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac1126b09f470753d92814b2892f7b394cf37f6d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/8e9666bf5115d11fe42f8ab8a16e8653919223a3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c64a854dc4cb5004f7081525ce1cd87dc023977/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e86c1c0b42563b068bfa34ca5dff4f06e3fdbda4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/0ff4e28f7d0e1a6fe74cb80b7a87621fb8d43207/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_685a255f097ed75e84b5e180fc056c542198f014/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/5b29032183267599cb8fdd578e7c460b3767e258/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03dd793d5a77cc80daae1f0284414149cacd8e3e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/c305fd5f767a512f2662a20dd76f0b8e42de71b1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42b024436d083b8b147e471b88dd8595a68da4ba/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d313c15ae13190becc948f57318ee22152fc49c0">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_362e264f3177779e575ae122c66b03216c14e60e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0537580c63ef260e47c2b697d6aff8e411d3883f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/d1ff1fdd7f236967a29b62ca7fd5a7b71da5cee9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a87fd571415a88469f3116c6a084b7b88223e24f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/7b2e21e4b89d62c8621826bff0490517c20c933c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10239f3371d504687f6df5d333cdd27c7711eed9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/david/.android/build-cache/41c2f5f0d6504c8e4f027b30c4eb0ab429742cca/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83b5f737fa6b266e8152e4fe1fcb76a3e9da7f68/classes.dex" />
+        sha1="48b7d51d7f4519d25a5b980e6b4ec834c40978ad">
+        <dex dex="C:\Users\Matheus Zeitune\Documents\GitHub\Pay-Hotspot\android\android-BluetoothChat-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8f9a63bf542528a433579e1005a76a8f22b27c61\classes.dex" />
     </item>
 
 </items>

@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     }
 ]

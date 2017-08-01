@@ -7,23 +7,31 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.os.StrictMode;
+import android.support.annotation.RequiresApi;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.nio.charset.StandardCharsets;
 import java.util.AbstractQueue;
 import java.util.Scanner;
 import java.util.Set;
@@ -39,6 +47,10 @@ public class ClienteActivity extends Activity {
     static TextView textSpace;
     public static final int PORT = 1337;
     public static String mac;
+    private String serverHost = "192.168.0.9";
+    private int serverPort = 1337;
+    private Button enviarMac;
+    private Button pegarMac;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,6 +59,8 @@ public class ClienteActivity extends Activity {
 
         statusMessage = (TextView) findViewById(R.id.statusMessage);
         textSpace = (TextView) findViewById(R.id.textSpace);
+        enviarMac = (Button) findViewById(R.id.btnEnviarMac);
+        pegarMac = (Button) findViewById(R.id.getMac);
 
         BluetoothAdapter btAdapter = BluetoothAdapter.getDefaultAdapter();
         if (btAdapter == null) {
@@ -62,8 +76,70 @@ public class ClienteActivity extends Activity {
             }
         }
 
-        getMac();
-        textSpace.setText(mac);
+        pegarMac.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                getMac();
+                textSpace.setText(mac);
+            }
+        });
+
+        enviarMac.setOnClickListener(new View.OnClickListener() {
+            @RequiresApi(api = Build.VERSION_CODES.KITKAT)
+            @Override
+            public void onClick(View view) {
+                try {
+                    textSpace.setText("Proxing...");
+                    final String textFromBluetooth = "dados da transacao dados da transacao\r\n dados da transacao dados da transacao\n";
+                    InputStream inputStream = new ByteArrayInputStream(textFromBluetooth.getBytes(StandardCharsets.UTF_8));
+                    InputStreamReader clientStreamReader = new InputStreamReader(inputStream);
+
+                    ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
+                    OutputStreamWriter outputStreamWriter = new OutputStreamWriter(outputStream);
+
+                    int SDK_INT = android.os.Build.VERSION.SDK_INT;
+                    if (SDK_INT > 8) {
+                        StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder()
+                                .permitAll().build();
+                        StrictMode.setThreadPolicy(policy);
+                        //your codes here
+
+
+                        Socket proxySocket = new Socket(serverHost, serverPort);
+                        OutputStreamWriter proxyStreamWriter = new OutputStreamWriter(proxySocket.getOutputStream());
+                        InputStreamReader proxyStreamReader = new InputStreamReader(proxySocket.getInputStream());
+
+                        int character = clientStreamReader.read();
+                        while (character != -1) {
+                            proxyStreamWriter.write(character);
+                            character = clientStreamReader.read();
+                        }
+
+                        proxyStreamWriter.flush();
+                        textSpace.setText("Data sended! ");
+                        Thread.sleep(200);
+
+                        character = proxyStreamReader.read();
+                        while (character != -1) {
+                            outputStreamWriter.write(character);
+                            character = proxyStreamReader.read();
+                        }
+
+                        outputStreamWriter.flush();
+                    }
+
+                    textSpace.setText("Data received: " + new String(outputStream.toByteArray(), StandardCharsets.UTF_8));
+
+                } catch (IOException e) {
+                    Log.i("x", e.getMessage());
+                    e.printStackTrace();
+
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+
+            }
+        });
     }
 
     @Override

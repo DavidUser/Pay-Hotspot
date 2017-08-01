@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

@@ -1,4 +1,4 @@
-#Sun Jul 23 05:05:50 BRT 2017
-base.0=/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+#Tue Aug 01 16:08:25 BRT 2017
+base.0=C\:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
 renamed.0=classes.dex
-file.0=/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
+file.0=C\:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex

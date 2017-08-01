@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
-        "source": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_device_access_bluetooth_searching.png",
-        "source": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/drawable-xhdpi/ic_action_device_access_bluetooth_searching.png"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png",
+        "source": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_device_access_bluetooth_searching.png"
     }
 ]

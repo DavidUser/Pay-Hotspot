@@ -1,18 +1,34 @@
 [
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/layout-v21/notification_action.xml"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/david/.android/build-cache/4564195a0eb6c3b290cc27a473f3a574eae6494f/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "C:\\home\\david\\Daminus\\final\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\home\\david\\.android\\build-cache\\4564195a0eb6c3b290cc27a473f3a574eae6494f\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Matheus Zeitune\\Documents\\GitHub\\Pay-Hotspot\\android\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Matheus Zeitune\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     }
 ]

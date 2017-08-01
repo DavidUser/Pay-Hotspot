@@ -88,4 +88,24 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 
+    <Button
+        android:id="@+id/btnEnviarMac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enviar\nMAC"
+        android:layout_alignBaseline="@+id/button_WaitConnection"
+        android:layout_alignBottom="@+id/button_WaitConnection"
+        android:layout_toRightOf="@+id/button_WaitConnection"
+        android:layout_toEndOf="@+id/button_WaitConnection" />
+
+    <Button
+        android:id="@+id/getMac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_Visibility"
+        android:layout_marginTop="11dp"
+        android:layout_toEndOf="@+id/statusMessage"
+        android:layout_toRightOf="@+id/statusMessage"
+        android:text="Pegar\nMac" />
+
 </RelativeLayout>

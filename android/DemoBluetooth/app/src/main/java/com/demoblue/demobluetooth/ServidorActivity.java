@@ -59,5 +59,12 @@ public class ServidorActivity extends Activity {
             }
         });
 
+        x.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(ServidorActivity.this, MainActivity.class));
+            }
+        });
+
     }
 }
