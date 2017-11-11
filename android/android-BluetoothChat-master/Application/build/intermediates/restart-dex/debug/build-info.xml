@@ -1,105 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="23"
-    build-mode="FULL"
-    density="xhdpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    build-mode="COLD"
+    density="xxhdpi"
     format="10"
-    plugin-version="2.3.2"
-    timestamp="1500812368377"
-    token="-4364396028268870293"
-    verifier="FULL_BUILD_REQUESTED" >
+    plugin-version="2.3.3"
+    timestamp="1501031126375"
+    token="-6207509952543492947"
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="595" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="18" />
     <task
         name="verifier"
-        duration="0" />
+        duration="12" />
 
     <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
         type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/outputs/apk/Application-debug.apk"
-        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1500812368377"
+        timestamp="1501031068951"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/david/Daminus/final/android-BluetoothChat-master/Application/build/outputs/apk/Application-debug.apk"
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/outputs/apk/Application-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1501031126375"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
     </build>
 
 </instant-run>

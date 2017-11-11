@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -3032,7 +3032,7 @@
                     "endOffset": 33868
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -3051,7 +3051,7 @@
                     "endOffset": 33911
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -3070,7 +3070,7 @@
                     "endOffset": 33955
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -3089,7 +3089,7 @@
                     "endOffset": 34000
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -3108,7 +3108,7 @@
                     "endOffset": 34043
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -3127,7 +3127,7 @@
                     "endOffset": 34085
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -3431,7 +3431,7 @@
                     "endOffset": 35131
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-dimens.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -4324,7 +4324,7 @@
                     "endOffset": 38237
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/base-strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/base-strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -4343,7 +4343,7 @@
                     "endOffset": 38339
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -4362,7 +4362,7 @@
                     "endOffset": 38396
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -4381,7 +4381,7 @@
                     "endOffset": 38455
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -4400,7 +4400,7 @@
                     "endOffset": 38528
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -4420,7 +4420,7 @@
                     "endOffset": 39117
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/base-strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/base-strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -4440,7 +4440,7 @@
                     "endOffset": 39173
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -4459,7 +4459,7 @@
                     "endOffset": 39241
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -4478,7 +4478,7 @@
                     "endOffset": 39317
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -4497,7 +4497,7 @@
                     "endOffset": 39370
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/fragmentview_strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/fragmentview_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -4516,7 +4516,7 @@
                     "endOffset": 39423
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/fragmentview_strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/fragmentview_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -4535,7 +4535,7 @@
                     "endOffset": 39484
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -4573,7 +4573,7 @@
                     "endOffset": 39606
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -4592,7 +4592,7 @@
                     "endOffset": 39675
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -4611,7 +4611,7 @@
                     "endOffset": 39713
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -4649,7 +4649,7 @@
                     "endOffset": 39881
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -4668,7 +4668,7 @@
                     "endOffset": 39940
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -4687,7 +4687,7 @@
                     "endOffset": 40002
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -4706,7 +4706,7 @@
                     "endOffset": 40074
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -4725,7 +4725,7 @@
                     "endOffset": 40138
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -4820,7 +4820,7 @@
                     "endOffset": 40541
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -9833,7 +9833,7 @@
                     "endOffset": 126347
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -9852,7 +9852,7 @@
                     "endOffset": 126400
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -10004,7 +10004,7 @@
                     "endOffset": 127099
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -11472,7 +11472,7 @@
                     "endOffset": 135010
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -11493,7 +11493,7 @@
                     "endOffset": 135288
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values/template-styles.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,

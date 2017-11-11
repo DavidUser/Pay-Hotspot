@@ -79,9 +79,6 @@ public class MainActivity extends SampleActivityBase {
 
         TextView macView = (TextView) findViewById(R.id.mac);
 
-        getMac();
-
-        macView.setText(mac);
     }
 
     private void getMac() {

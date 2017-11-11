@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/david/Daminus/final/android-BluetoothChat-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "outputFile": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -2023,7 +2023,7 @@
                     "endOffset": 20527
                 },
                 "from": {
-                    "file": "/home/david/Daminus/final/android-BluetoothChat-master/Application/src/main/res/values-v21/base-template-styles.xml",
+                    "file": "/home/david/Pay-Hotspot/android/android-BluetoothChat-master/Application/src/main/res/values-v21/base-template-styles.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
